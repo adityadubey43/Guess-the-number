@@ -1,6 +1,6 @@
-package com.Hello;
+package com.Guess-the-number;
 import java.util.Scanner;
-public class guess {
+public class guess1 {
     public static void main(String[] args){
         System.out.println("Enter a number less then 100 press -1 to exit anytime");
         int myNum=(int)(Math.random()*31);
